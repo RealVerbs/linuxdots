@@ -170,4 +170,3 @@ Screenshots help but are not required for obvious bugs.
 ## Questions
 
 Open a [discussion](https://github.com/UnderscoredScore/linuxdots/discussions) or an issue with the `question` label.
-```
