@@ -1,4 +1,3 @@
-```markdown
 # Contributing to LinuxDots
 
 Thanks for wanting to help. LinuxDots is a curated gallery of Linux desktop rices for Hyprland, Niri, i3, Sway, KDE and GNOME, across Arch, Fedora, Debian and Ubuntu. There are two ways to contribute: submit your rice, or fix the site itself.
